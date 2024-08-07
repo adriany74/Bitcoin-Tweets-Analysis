@@ -2,3 +2,5 @@ Bitcoin Tweets Dataset: https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-2
 Source code:
 https://guntakrishnakanth.medium.com/word-count-using-hadoop-mapreduce-7ed9515850eb 
 https://dzone.com/articles/word-count-hello-word-program-in-mapreduce 
+https://medium.com/@manojt2501/pyspark-using-different-spark-api-to-write-word-count-program-324378ee04c6 
+https://github.com/kavgan/nlp-in-practice/tree/master/spark_wordcount 
